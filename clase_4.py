@@ -19,3 +19,9 @@ opcion = int(input ("Introduzca una opcion (1-7):")  )
 #MOSTRAMOS LA OPCION SELECCIONADA
 
 print("Usted ha seleccionado:", opcion)
+
+
+
+
+
+
